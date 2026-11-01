@@ -6,7 +6,7 @@ SphereCraft 360 is a free Windows application for placing flat video and images 
 
 The application is provided free of charge. SphereCraft 360 is not open source and the source code is not publicly available.
 
-License
+## License
 
 SphereCraft 360 is proprietary software.
 
@@ -32,13 +32,13 @@ Free to use does not mean open source.
 
 All rights not expressly granted are reserved by the copyright holder.
 
-Copyright
+## Copyright
 
 Copyright © 2026 Piotr Kubicki. All rights reserved.
 
 SphereCraft 360, its executable code, source code, design and proprietary implementation remain the property of the copyright holder.
 
-Third-Party Software
+## Third-Party Software
 
 SphereCraft 360 uses FFmpeg and FFprobe as external components. These components are subject to their respective licenses.
 
