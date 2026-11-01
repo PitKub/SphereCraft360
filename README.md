@@ -1,5 +1,49 @@
 # SphereCraft 360 — Windows Edition
 
+Freeware • Closed Source • Proprietary Software
+
+SphereCraft 360 is a free Windows application for placing flat video and images onto 360° equirectangular footage, with transparent and chroma-key export options.
+
+The application is provided free of charge. SphereCraft 360 is not open source and the source code is not publicly available.
+
+License
+
+SphereCraft 360 is proprietary software.
+
+You are free to:
+
+• Download and use the application.
+• Use it for personal purposes.
+• Use it for commercial purposes.
+• Keep copies of the original application for backup purposes.
+
+You may not:
+
+• Modify the application.
+• Decompile, disassemble, or reverse engineer the application.
+• Redistribute modified versions.
+• Sell, sublicense, or commercially redistribute the application itself.
+• Copy or reuse the application’s proprietary code or implementation.
+• Claim the application or its source code as your own.
+
+The source code is not included in this repository and is not licensed for public use.
+
+Free to use does not mean open source.
+
+All rights not expressly granted are reserved by the copyright holder.
+
+Copyright
+
+Copyright © 2026 Piotr Kubicki. All rights reserved.
+
+SphereCraft 360, its executable code, source code, design and proprietary implementation remain the property of the copyright holder.
+
+Third-Party Software
+
+SphereCraft 360 uses FFmpeg and FFprobe as external components. These components are subject to their respective licenses.
+
+Please refer to the respective FFmpeg documentation and licensing information for details.
+
 ## Run the compiled application
 
 1. Extract the release ZIP to a folder.
