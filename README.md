@@ -12,19 +12,19 @@ SphereCraft 360 is proprietary software.
 
 You are free to:
 
-• Download and use the application.
-• Use it for personal purposes.
-• Use it for commercial purposes.
-• Keep copies of the original application for backup purposes.
+- **Download and use the application.
+- **Use it for personal purposes.
+- **Use it for commercial purposes.
+- **Keep copies of the original application for backup purposes.
 
 You may not:
 
-• Modify the application.
-• Decompile, disassemble, or reverse engineer the application.
-• Redistribute modified versions.
-• Sell, sublicense, or commercially redistribute the application itself.
-• Copy or reuse the application’s proprietary code or implementation.
-• Claim the application or its source code as your own.
+- **Modify the application.
+- **Decompile, disassemble, or reverse engineer the application.
+- **Redistribute modified versions.
+- **Sell, sublicense, or commercially redistribute the application itself.
+- **Copy or reuse the application’s proprietary code or implementation.
+- **Claim the application or its source code as your own.
 
 The source code is not included in this repository and is not licensed for public use.
 
