@@ -48,17 +48,6 @@ When exporting a video from an image, **Image duration** accepts whole seconds f
 
 Open **Tools → Settings** and select the full paths to `ffmpeg.exe` and `ffprobe.exe` again. Confirm that both files exist at those locations, then restart the app. Any error message includes details to help diagnose the problem.
 
-## Build from source
-
-To build the Windows application, you need Windows 10 or 11, Python 3.10 or newer, and an internet connection to download the required packages.
-
-1. Extract the complete source ZIP to a folder.
-2. Run **build.bat** from that folder.
-3. The script installs the packages listed in `requirements.txt` and builds the app with PyInstaller.
-4. The compiled app is created at `dist\SphereCraft360.exe`.
-
-FFmpeg is not required to build the app. FFmpeg and FFprobe are required to run it and must be selected in **Tools → Settings** after launch.
-
 ## Controls
 
 - **N** — Navigate
